@@ -1,6 +1,6 @@
-matplotlib==3.7.1
-numpy==2.2.3
-scipy==1.15.2
-soundfile==0.13.1
-streamlit==1.42.2
-# torch==1.13.0+cu116
+matplotlib
+numpy
+scipy
+soundfile
+streamlit
+torch
